@@ -1,0 +1,53 @@
+@font-face{
+
+    font-family: 'Syne';
+    src: url(Fonts/Syne-Bold.ttf);
+}
+
+.navbar{
+    font-family: 'Syne';
+}
+
+
+.logo-icon{
+    padding-right: 10px;
+}
+
+.jumbotron{
+    padding-left: 5rem;
+    margin:0;
+    font-family: 'Syne';
+    font-style: normal;
+    background-image: url(Images/Vr_guy.png)
+}
+.lead{
+    color: #012958;
+}
+
+.btn{
+    background: #012958;
+    font-size:30px;
+    color: white;
+    border-radius: 45px;
+    padding:5px 60px;
+}
+
+.vr_guy{
+    padding-left: 20px;
+    background-color: #012958;
+    border-radius: 85px;
+    position: absolute;
+    opacity: 0.5;
+}
+
+.vr_guy2{
+    padding-left: 40px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.row{
+    padding-top: 5rem;
+    padding-right: 2rem;
+}
+
