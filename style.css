@@ -34,16 +34,9 @@
 
 .vr_guy{
     padding-left: 20px;
-    background-color: #012958;
-    border-radius: 85px;
-    position: absolute;
-    opacity: 0.5;
-}
-
-.vr_guy2{
-    padding-left: 40px;
-    padding-top: 20px;
-    position: relative;
+    background-color: #49688c;
+    border-radius: 100px
+    
 }
 
 .row{
